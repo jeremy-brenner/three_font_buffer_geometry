@@ -1,0 +1,11 @@
+{
+  "name": "three_font_buffer_geometry",
+  "version": "1.0.0",
+  "description": "THREE helper library to generate fast text meshes.",
+  "main": "three_font_buffer_geometry.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy J. Brenner",
+  "license": "ISC"
+}
