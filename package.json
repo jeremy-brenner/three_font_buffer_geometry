@@ -2,10 +2,21 @@
   "name": "three_font_buffer_geometry",
   "version": "1.0.0",
   "description": "THREE helper library to generate fast text meshes.",
-  "main": "three_font_buffer_geometry.coffee",
+  "main": "lib/three_font_buffer_geometry.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jeremy J. Brenner",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremy-brenner/three_font_buffer_geometry.git"
+  },
+  "author": "Jeremy J. Brenner <jeremyjbrenner@gmail.com> (http://drshoggoth.net)",
+  "license": "MIT",
+  "dependencies": {
+    "three": ">= 0.70.0"
+  },
+  "devDependencies": {
+    "coffee-script": ">= 1.3"
+  },
+  "keywords": ["three", "font", "buffer", "geometry"]
 }
